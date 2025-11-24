@@ -7,8 +7,12 @@
 <img width="902" height="543" alt="image" src="https://github.com/user-attachments/assets/e09654e3-d35b-4312-8f5a-d54cb1aa47bc" />
 
 
-# Tabulation with readings
+# Tabulation with readings 
+![WhatsApp Image 2025-11-24 at 10 38 09_e9a12ea8](https://github.com/user-attachments/assets/682b4a5a-1fd1-421d-89a6-6eb23844cd0f)
+
 
 ## Semilog plotted Graph
+![WhatsApp Image 2025-11-24 at 10 38 32_adf045ff](https://github.com/user-attachments/assets/d1102246-7d70-4579-bfe6-ba1bc9fe5f47)
 
-<img width="697" height="292" alt="image" src="https://github.com/user-attachments/assets/931385be-3c78-4682-a10c-1924b3faa1d4" />
+
+![WhatsApp Image 2025-11-24 at 10 45 26_0170284a](https://github.com/user-attachments/assets/0469ae95-bb39-4753-b3bd-42296c8ed3a4)

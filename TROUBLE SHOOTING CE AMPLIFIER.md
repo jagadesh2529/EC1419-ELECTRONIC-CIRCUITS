@@ -7,7 +7,13 @@
 
 
 ## Tabulations 
+![WhatsApp Image 2025-11-24 at 10 38 09_05d210a7](https://github.com/user-attachments/assets/b94070d2-69ee-42e0-a81f-98a195afaf91)
+
 
 ## Semilog Graph
+![WhatsApp Image 2025-11-24 at 10 38 32_5445acf3](https://github.com/user-attachments/assets/c4b66850-181f-4147-bbae-79dccddc947d)
+
 
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
+![WhatsApp Image 2025-11-24 at 10 39 14_d779d670](https://github.com/user-attachments/assets/dfeadcdf-e340-4178-aff1-cecd04163d1b)
+
